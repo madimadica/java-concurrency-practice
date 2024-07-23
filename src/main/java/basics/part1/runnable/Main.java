@@ -1,5 +1,8 @@
-package basics.runnables.part1;
+package basics.part1.runnable;
 
+/**
+ * <a href="https://docs.oracle.com/javase/tutorial/essential/concurrency/runthread.html">Reference</a>
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println("This is main");

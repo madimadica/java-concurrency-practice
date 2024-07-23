@@ -1,4 +1,4 @@
-package basics.runnables.part1;
+package basics.part1.runnable;
 
 public class MyFirstRunnable implements Runnable {
 
