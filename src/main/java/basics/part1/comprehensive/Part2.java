@@ -6,7 +6,7 @@ import java.time.Duration;
 import java.util.Scanner;
 
 /**
- * Using the safe ref as part 1 (<a href="https://docs.oracle.com/javase/tutorial/essential/concurrency/simple.html">Ref</a>),
+ * Using the same ref as part 1 (<a href="https://docs.oracle.com/javase/tutorial/essential/concurrency/simple.html">Ref</a>),
  * we will finish implementing {@link basics.part1.interrupt.MyFirstInterrupt} to end early.
  */
 public class Part2 {
