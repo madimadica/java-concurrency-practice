@@ -1,5 +1,8 @@
 package basics.part2.interference;
 
+/**
+ * <a href="https://docs.oracle.com/javase/tutorial/essential/concurrency/syncmeth.html">Reference</a>
+ */
 public class SafeMain {
     private static final int BOUND = 100_000_000;
 
